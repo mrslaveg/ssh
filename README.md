@@ -1,1 +1,4 @@
-bash <(curl -fsSL https://raw.githubusercontent.com/mrslaveg/ssh/main/ssh-hardening.sh)
+## Установка
+
+```bash
+bash "<(curl -fsSL https://raw.githubusercontent.com/mrslaveg/ssh/main/ssh-hardening.sh)"
